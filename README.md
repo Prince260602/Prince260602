@@ -51,9 +51,11 @@
 <div>
 <p> <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=prince260602&" alt="prince260602" /></p>
 
-<p> <img src="https://github-readme-stats.vercel.app/api?username=prince260602&show_icons=true&locale=en" alt="prince260602" /></p>
-
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince260602&show_icons=true&locale=en&border=true" alt="prince260602" /></p>
+
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=prince260602&show_icons=true&locale=en" alt="prince260602" /></p>
+
+
 
 </div>
 ---
