@@ -54,11 +54,10 @@
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince260602&show_icons=true&locale=en&border=true" alt="prince260602" /></p>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=prince260602&show_icons=true&locale=en" alt="prince260602" /></p>
-
-
-
 </div>
+
 ---
+
 <br>
 <div align="center">
   <img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
