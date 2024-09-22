@@ -56,7 +56,14 @@
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=prince260602&show_icons=true&locale=en" alt="prince260602" /></p>
 </div>
 
----
+<!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake-dark.svg" alt="Snake animation Contribution Graph" width="1920" />
+</div>
+
+<div style="text-align: center;">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" alt="Animated Line" width="1920" />
+</div>
 
 <br>
 <div align="center">
