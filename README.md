@@ -48,12 +48,15 @@
 [![My Skills](https://skillicons.dev/icons?i=azure,vercel,netlify,java,express,nodejs)](https://skillicons.dev)
 <br>
 
+<div>
+  
+<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince260602&show_icons=true&locale=en&border=true" alt="prince260602" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=prince260602&show_icons=true&locale=en"/></p>
+</div>
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince260602&show_icons=true&locale=en&border=true" alt="prince260602" /></p>
-
-<p align="right"><img align="right" src="https://github-readme-stats.vercel.app/api?username=prince260602&show_icons=true&locale=en"/></p>
-
+<br>
+<br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince260602&show_icons=true&locale=en"/></p>  
 
 
