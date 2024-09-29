@@ -3,7 +3,9 @@
 
 <img alt="Coding" height="350" width="100%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<h3 align="center">A passionate Software Engineer and Full Stack Web Developer from India</h3>
+<h3 align="center">A highly motivated and skilled MERN Stack and Java Web Developer with 3+ Months of experience in
+developing, and maintaining web applications. Proficient in MERN, JAVA, NextJS and other web technologies. intermediate problem-solving skills. Passionate about learning new
+technologies and improving coding practices.</h3>
 <br>
 
 <br>
