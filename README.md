@@ -60,7 +60,9 @@ technologies and improving coding practices.</h3>
 
 <br>
 <br>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince260602&show_icons=true&locale=en"/></p>  
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prince260602&" alt="prince260602" /></p>
+
 
 
 <!--- -- Snake Contribution Graph -------------------------------------------------------------------------------------------------------------------------- -->
