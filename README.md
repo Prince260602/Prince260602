@@ -13,7 +13,7 @@ technologies and improving coding practices.</h3>
 
 - 🌱 I’m currently learning **DSA, C++**
 
-- 👯 I’m looking to collaborate on **AI/ML, Software Development, Frontend and Backend in web development**
+- 👯 I’m looking to collaborate on **AI/ML, Software Development, Frontend and Backend in web development, Full Stack Developer**
 
 - 🤝 I’m looking for help with **Software Engineer**
 
