@@ -19,7 +19,7 @@ technologies and improving coding practices.</h3>
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Prince260602)
 
-- 🔗  Reach me on My Portfolio's [Portfolio](https://prince-portfolios.netlify.app/)
+- 🔗  Reach me on My Portfolio's [Portfolio](https://portfolio-dusky-one-58.vercel.app/)
 
 - 📫 How to reach me **princemultaniya89@gmail.com**
 
